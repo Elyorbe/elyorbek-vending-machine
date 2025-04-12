@@ -1,6 +1,11 @@
 # Vending Machine
 
-Assignment solution for ProtoPie Software Engineer (Backend) position
+Assignment solution for ProtoPie Software Engineer (Backend) position.
+
+Diagram of mechanism (flow)
+
+![Description of Image](docs/vending-machine-diagram.png)
+
 
 ## Tech Stack
 
