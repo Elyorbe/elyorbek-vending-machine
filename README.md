@@ -1,6 +1,6 @@
 # Vending Machine
 
-Software Engineer (Backend) position
+Assignment solution for ProtoPie Software Engineer (Backend) position
 
 ## Tech Stack
 
