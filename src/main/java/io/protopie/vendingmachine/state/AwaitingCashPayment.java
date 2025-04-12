@@ -12,7 +12,7 @@ public final class AwaitingCashPayment implements VendingMachineState {
     @Override
     public void insertCash(VendingMachine vendingMachine, int amount) {
         if (!ACCEPTED_DENOMINATIONS.contains(amount)) {
-            System.out.println("Error: Denomination " + amount + " KRW is not accepted. Cash returned.");
+            System.out.println("Denomination " + amount + " KRW is not accepted. Cash returned.");
             return;
         }
 
